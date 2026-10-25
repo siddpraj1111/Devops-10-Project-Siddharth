@@ -75,7 +75,7 @@ function App() {
           <section className="page-title">
             <div>
               <p className="eyebrow">DEPLOYMENT CONTROL CENTER</p>
-              <h1>{page === "Overview" ? "The Devops Code Has been Changed." : page}</h1>
+              <h1>{page === "Overview" ? "The Devops Code Has been Changed 2nd time." : page}</h1>
               <p className="subtitle">A workspace for your React, Docker and Jenkins learning project.</p>
             </div>
             <button className="primary-button" onClick={showDeployment}>
@@ -130,7 +130,7 @@ function App() {
                 <article className="metric-card">
                   <span className="metric-icon blue">⌁</span>
                   <p>Deployment state</p>
-                  <strong className="metric-text">Siddharth Prajapati TE IT B 26</strong>
+                  <strong className="metric-text">I AM SIDDHARTH PRAJAPATI THIRD YEAR IT B 26</strong>
                   <small>Pipeline setup pending</small>
                 </article>
               </section>
